@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <fileIdentifier>
+        <gco:CharacterString>e3a1f8c4aa014429847c2944e3d92406</gco:CharacterString>
+    </fileIdentifier>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp gco:nilReason="missing"/>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <referenceSystemInfo>
+        <MD_ReferenceSystem>
+            <referenceSystemIdentifier>
+                <RS_Identifier>
+                    <code>
+                        <gco:CharacterString>102100</gco:CharacterString>
+                    </code>
+                    <codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                    </codeSpace>
+                </RS_Identifier>
+            </referenceSystemIdentifier>
+        </MD_ReferenceSystem>
+    </referenceSystemInfo>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>Comunas de Chile</gco:CharacterString>
+                    </title>
+                    <date>
+                        <CI_Date>
+                            <date>
+                                <gco:DateTime>2019-12-30T18:32:33</gco:DateTime>
+                            </date>
+                            <dateType>
+                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+                            </dateType>
+                        </CI_Date>
+                    </date>
+                    <date>
+                        <CI_Date>
+                            <date>
+                                <gco:DateTime>2019-12-30T18:33:30</gco:DateTime>
+                            </date>
+                            <dateType>
+                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                            </dateType>
+                        </CI_Date>
+                    </date>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>Resumen generalEste servicio proporciona una capa vectorial de polígonos que representan las comunas de Chile, cubriendo todo el territorio nacional a nivel administrativo municipal. El conjunto de datos es una fuente oficial proveniente del Instituto Nacional de Estadísticas (INE) y está referenciado en el sistema de coordenadas WKID 102100.Detalles de la capaComunas_de_Chile: Esta capa incluye límites administrativos de las comunas chilenas, con atributos descriptivos como la región, provincia, código INE de comuna, y nombres de las comunas y regiones. Los polígonos reflejan la extensión geográfica y forma de cada comuna, permitiendo análisis geoespaciales precisos y la integración con otros datos territoriales.Ámbito geográficoEl servicio abarca la totalidad del país de Chile, desde el extremo norte hasta el sur austral, proporcionando una cobertura completa para aplicaciones territoriales, planificación urbana, demografía y gestión pública municipal.Aplicaciones típicasPlanificación territorial y desarrollo urbanoAnálisis socioeconómicos y demográficos a nivel comunalVisualización y superposición temática de datos administrativosSoporte para investigaciones académicas y gubernamentales sobre distribución espacial</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>Capa vectorial poligonal que representa las comunas de Chile, con datos oficiales del INE y cobertura nacional a nivel municipal.</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>Fuente original: INE. Publicación en plataforma: Centro de Datos OCUC | Observatorio de Ciudades UC. Verifique vigencia, condiciones de uso y atribución antes de reutilizarla.</gco:CharacterString>
+            </credit>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Chile</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>comunas</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>administración territorial</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>instituto nacional de estadísticas</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>geografía municipal</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>La información se publica en la plataforma del Centro de Datos OCUC | Observatorio de Ciudades UC para fines de consulta, análisis y visualización, bajo una modalidad de libre disponibilidad no comercial en lo que respecta a su publicación en esta plataforma. El uso, reproducción, redistribución o adaptación de los datos debe respetar las condiciones establecidas por la fuente original: INE. Se recomienda verificar vigencia, restricciones, actualización y atribución antes de reutilizarla. Esta publicación se rige bajo licencia Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0), sin perjuicio de las condiciones específicas definidas por la fuente original.</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <extent>
+                <EX_Extent/>
+            </extent>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <distributionFormat>
+                <MD_Format>
+                    <name>
+                        <gco:CharacterString>Feature Service</gco:CharacterString>
+                    </name>
+                    <version gco:nilReason="missing"/>
+                </MD_Format>
+            </distributionFormat>
+            <transferOptions>
+                <MD_DigitalTransferOptions>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>https://services9.arcgis.com/kKJR3Qt68ohAWuet/arcgis/rest/services/Comunas_de_Chile/FeatureServer</URL>
+                            </linkage>
+                        </CI_OnlineResource>
+                    </onLine>
+                </MD_DigitalTransferOptions>
+            </transferOptions>
+        </MD_Distribution>
+    </distributionInfo>
+</MD_Metadata>
