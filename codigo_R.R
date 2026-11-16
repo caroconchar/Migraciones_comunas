@@ -288,7 +288,7 @@ plot(
 )
 
 #######################################
-###MAPA
+###MAPA lindo
 comunas_sf <- st_read("Comunas_de_Chile/Comunas_de_Chile.shp")
 
 comunas_puntos <- comunas_sf %>%
